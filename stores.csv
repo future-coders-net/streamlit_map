@@ -1,0 +1,186 @@
+,area,area-e,name,name-e,addr,lat,lon
+0,東京23区内の店舗,toukyou-23-kunai-no-tenpo,白金店,shirogane-mise,住所 東京都港区白金3-2-9　プランシェードメイツ白金102,35.646351,139.73134149999998
+1,東京23区内の店舗,toukyou-23-kunai-no-tenpo,三田店,mita-mise,,,
+2,東京23区内の店舗,toukyou-23-kunai-no-tenpo,芝4丁目店,shiba-4-choume-mise,住所 東京都港区芝4-6-14　星ビル 1F,35.64883200000001,139.75158980000003
+3,東京23区内の店舗,toukyou-23-kunai-no-tenpo,KAKUYASU class 六本木3丁目店,KAKUYASU class -roppongi-3-choume-mise,住所 東京都港区六本木3-14-14　六本木314ビル B1F,,
+4,東京23区内の店舗,toukyou-23-kunai-no-tenpo, KAKUYASU class 六本木駅前店, KAKUYASU class -roppongi-ekimae-mise,住所 東京都港区六本木6-1-8　六本木グリーンビル1F,,
+5,東京23区内の店舗,toukyou-23-kunai-no-tenpo,KAKUYASU class 赤坂2丁目店,KAKUYASU class -akasaka-2-choume-mise,住所 東京都港区赤坂2-12-7,,
+6,東京23区内の店舗,toukyou-23-kunai-no-tenpo,新小岩店,shinkoiwa-mise,住所 東京都葛飾区東新小岩1-3-4　塚原ビル1F,35.7187505,139.85778959999993
+7,東京23区内の店舗,toukyou-23-kunai-no-tenpo,高砂店,takasago-mise,住所 東京都葛飾区高砂5-43-8,35.7511926,139.86852829999998
+8,東京23区内の店舗,toukyou-23-kunai-no-tenpo,お花茶屋店,o-hanacha-ya-mise,住所 東京都葛飾区白鳥1-4-2,35.7468856,139.84183540000004
+9,東京23区内の店舗,toukyou-23-kunai-no-tenpo,一之江店,ichinoe-mise,住所 東京都江戸川区一之江8-4-3　フラット ゼセッション1F,35.6844948,139.88215390000005
+10,東京23区内の店舗,toukyou-23-kunai-no-tenpo,小岩店,koiwa-mise,住所 東京都江戸川区北小岩2-21-19　三幸ビル1F,35.7366494,139.88547549999998
+11,東京23区内の店舗,toukyou-23-kunai-no-tenpo,南葛西店,minami-kasai-mise,住所 東京都江戸川区南葛西2-3-1　プリィエール南葛西1F,35.6545215,139.87281699999994
+12,東京23区内の店舗,toukyou-23-kunai-no-tenpo,亀戸店,kameido-mise,住所 東京都江東区亀戸7-7-8　ジャルジンビル1F,35.6959538,139.83391630000006
+13,東京23区内の店舗,toukyou-23-kunai-no-tenpo,北砂店,kitasuna-mise,住所 東京都江東区北砂7-4-7 狩野ビル1F,35.67945479999999,139.83500070000002
+14,東京23区内の店舗,toukyou-23-kunai-no-tenpo,白河店,shirakawa-mise,住所 東京都江東区白河2-5-13　山崎ビル1F,35.6813317,139.80327690000001
+15,東京23区内の店舗,toukyou-23-kunai-no-tenpo,富岡2丁目店,tomioka-2-choume-mise,住所 東京都江東区富岡2-6-11,35.6721996,139.8015236
+16,東京23区内の店舗,toukyou-23-kunai-no-tenpo,東雲店,shinonome-mise,住所 東京都江東区東雲2-4-2 東雲都橋団地 103号 104号,35.643418,139.79792109999994
+17,東京23区内の店舗,toukyou-23-kunai-no-tenpo,南砂店,minamisuna-mise,住所 東京都江東区南砂3-3-6,,
+18,東京23区内の店舗,toukyou-23-kunai-no-tenpo,日暮里店,nippori-mise,住所 東京都荒川区西日暮里2-40-3 横山ビル1F,35.7310513,139.7705793
+19,東京23区内の店舗,toukyou-23-kunai-no-tenpo,町屋店,machiya-mise,住所 東京都荒川区町屋2-2-17　ニュートーキョー町屋第二ビル 1F,,
+20,東京23区内の店舗,toukyou-23-kunai-no-tenpo,幡ヶ谷店,hatagaya-mise,住所 東京都渋谷区幡ヶ谷2-21-3　ウエストバリビル1F,,
+21,東京23区内の店舗,toukyou-23-kunai-no-tenpo,代々木上原店,yoyogiuehara-mise,住所 東京都渋谷区元代々木町12-8　佐竹ビル1F,,
+22,東京23区内の店舗,toukyou-23-kunai-no-tenpo,千駄ケ谷店,sen-da-ke-tani-mise,住所 東京都渋谷区千駄ヶ谷3-29-9　金子ビル1F,,
+23,東京23区内の店舗,toukyou-23-kunai-no-tenpo,広尾店,hiroo-mise,住所 東京都渋谷区広尾5-1-37,35.6490183,139.71826340000007
+24,東京23区内の店舗,toukyou-23-kunai-no-tenpo,四谷店,yotsuya-mise,住所 東京都新宿区四谷2-8-8　第五三和ビル1F,35.68710060000001,139.7251182
+25,東京23区内の店舗,toukyou-23-kunai-no-tenpo,新宿1丁目店,shinjuku-1-choume-mise,住所 東京都新宿区新宿1-34-12　イシイビル1F,35.6912257,139.7106248
+26,東京23区内の店舗,toukyou-23-kunai-no-tenpo,西新宿店,nishishinjuku-mise,住所 東京都新宿区西新宿7-18-10　島田ビル1F,35.69644340000001,139.69673369999998
+27,東京23区内の店舗,toukyou-23-kunai-no-tenpo,神楽坂店,kagurazaka-mise,住所 東京都新宿区岩戸町7-1　牛込神楽坂駅前ビル1F,35.7015054,139.73685309999996
+28,東京23区内の店舗,toukyou-23-kunai-no-tenpo,KAKUYASU class 歌舞伎町店,KAKUYASU class -kabukichou-mise,住所 東京都新宿区歌舞伎町2-27-11　三経27ビル 1F,,
+29,東京23区内の店舗,toukyou-23-kunai-no-tenpo,下落合店,shimoochiai-mise,住所 東京都新宿区下落合4-23-16,35.72180749999999,139.69591820000005
+30,東京23区内の店舗,toukyou-23-kunai-no-tenpo,高田馬場店,takadanobabaten,住所 東京都新宿区高田馬場1-21-6 メゾン高田馬場1F,35.7092851,139.70424309999999
+31,東京23区内の店舗,toukyou-23-kunai-no-tenpo,江戸川橋店,edogawa-hashi-mise,住所 東京都新宿区早稲田鶴巻町544　中川ビル１Ｆ,35.7075936,139.7276862
+32,東京23区内の店舗,toukyou-23-kunai-no-tenpo,宮前店,miyamae-mise,住所 東京都杉並区宮前2-4-6,35.6907533,139.6139276
+33,東京23区内の店舗,toukyou-23-kunai-no-tenpo,阿佐ヶ谷店,asa-ke-tani-mise,住所 東京都杉並区阿佐谷南3-5-3,35.7006716,139.6329657
+34,東京23区内の店舗,toukyou-23-kunai-no-tenpo,方南町店,hounanchou-mise,住所 東京都杉並区和泉4-47-17　ミネグリーンハイツ1F,35.6825741,139.65291809999997
+35,東京23区内の店舗,toukyou-23-kunai-no-tenpo,永福店,eifuku-mise,住所 東京都杉並区永福1-39-16　水本ビル1F,35.67467,139.643219
+36,東京23区内の店舗,toukyou-23-kunai-no-tenpo,井草店,igusa-mise,住所 東京都杉並区井草3-30-12　第一森西ビル1F,35.7299205,139.61538740000003
+37,東京23区内の店舗,toukyou-23-kunai-no-tenpo,西荻窪駅前店,nishiogikuboeki-mae-mise,,,
+38,東京23区内の店舗,toukyou-23-kunai-no-tenpo,吉祥寺店,kichijoujiten,住所 東京都杉並区松庵　2-19-12,35.70008420000001,139.59385220000001
+39,東京23区内の店舗,toukyou-23-kunai-no-tenpo,高円寺店,kouenji-mise,住所 東京都杉並区高円寺南4-52-1,35.705389,139.65439779999997
+40,東京23区内の店舗,toukyou-23-kunai-no-tenpo,池尻店,ikejiri-mise,住所 東京都世田谷区下馬1-45-6,35.64061,139.68207430000007
+41,東京23区内の店舗,toukyou-23-kunai-no-tenpo,用賀店,youga-mise,住所 東京都世田谷区用賀3-8-1　ピアコヤマ1F,35.6301098,139.63940200000002
+42,東京23区内の店舗,toukyou-23-kunai-no-tenpo,千歳烏山店,chitosekarasuyama-mise,住所 東京都世田谷区南烏山4-6-13　アーバンサイド烏山101,35.6700228,139.60283100000004
+43,東京23区内の店舗,toukyou-23-kunai-no-tenpo,世田谷桜店,setagaya-sakura-mise,住所 東京都世田谷区桜3-7-12,35.6399642,139.6376537
+44,東京23区内の店舗,toukyou-23-kunai-no-tenpo,若林店,wakabayashi-mise,住所 東京都世田谷区上馬5-27-9　ユニティ上馬1F,,
+45,東京23区内の店舗,toukyou-23-kunai-no-tenpo,下北沢店,shimokitazawa-mise,住所 東京都世田谷区代沢5-18-1　代沢カラバッシュ1F,35.65678430000001,139.66742509999995
+46,東京23区内の店舗,toukyou-23-kunai-no-tenpo,祖師ケ谷大蔵店,soshi-ke-tani-ookura-mise,住所 東京都世田谷区砧8-12-10　メッセンジャービル,35.6417791,139.60663060000002
+47,東京23区内の店舗,toukyou-23-kunai-no-tenpo,三軒茶屋栄通り店,sangenjaya-sakae-touri-mise,住所 東京都世田谷区三軒茶屋1-34-11,35.641913633833,139.67236227005
+48,東京23区内の店舗,toukyou-23-kunai-no-tenpo,等々力店,todoroki-mise,住所 東京都世田谷区等々力4-8-4,35.6083763,139.65102109999998
+49,東京23区内の店舗,toukyou-23-kunai-no-tenpo,浅草橋店,asakusabashi-mise,住所 東京都千代田区神田佐久間町4-1　ベラカーサ秋葉原　103号,,
+50,東京23区内の店舗,toukyou-23-kunai-no-tenpo,北千住店,kitasenju-mise,住所 東京都足立区千住1-13-6,35.748994,139.7999731
+51,東京23区内の店舗,toukyou-23-kunai-no-tenpo,綾瀬店,ayase-mise,住所 東京都足立区綾瀬2-40-9,35.7582488,139.82895680000001
+52,東京23区内の店舗,toukyou-23-kunai-no-tenpo,加平店,kahei-mise,住所 東京都足立区加平3-8-12,35.77892649999999,139.8300521
+53,東京23区内の店舗,toukyou-23-kunai-no-tenpo,竹ノ塚店,take-no-tsuka-mise,住所 東京都足立区竹ノ塚1-37-6,35.79289349999999,139.79357170000003
+54,東京23区内の店舗,toukyou-23-kunai-no-tenpo,西新井本町店,nishiarai-honchou-mise,住所 東京都足立区西新井本町2-22-3,35.77547,139.773807
+55,東京23区内の店舗,toukyou-23-kunai-no-tenpo,上野店,uenoten,住所 東京都台東区台東3-17-9　ビアン御徒町1F,35.7049496,139.77720220000003
+56,東京23区内の店舗,toukyou-23-kunai-no-tenpo,千束店,senzoku-mise,住所 東京都台東区千束3-3-11　小川ビル1F,35.7212567,139.7930725
+57,東京23区内の店舗,toukyou-23-kunai-no-tenpo,浅草店,asakusa-mise,住所 東京都台東区浅草2－1－16　藤田ビル1Ｆ,35.7129511,139.7976804
+58,東京23区内の店舗,toukyou-23-kunai-no-tenpo,根岸店,negishi-mise,住所 東京都台東区根岸5-13-13　グリーンハイツ根岸1F,35.7270551,139.78811640000004
+59,東京23区内の店舗,toukyou-23-kunai-no-tenpo,蔵前店,kuramae-mise,住所 東京都台東区蔵前3-2-1　大東ビル1F,35.7033566,139.79031350000002
+60,東京23区内の店舗,toukyou-23-kunai-no-tenpo,雪谷店,yukitani-mise,住所 東京都大田区南雪ヶ谷2－1－11,,
+61,東京23区内の店舗,toukyou-23-kunai-no-tenpo,大森東店,oomorihigashi-mise,住所 東京都大田区大森東3-1-21,35.5701897,139.7351757
+62,東京23区内の店舗,toukyou-23-kunai-no-tenpo,武蔵新田店,musashi-nitta-mise,住所 東京都大田区矢口1－5－9　サンワバートIIビル1F,35.5672292,139.69379950000007
+63,東京23区内の店舗,toukyou-23-kunai-no-tenpo,蒲田駅前店,kamataeki-mae-mise,住所 東京都大田区蒲田5-44-14　佐藤ビル1F,35.5599728,139.71696329999997
+64,東京23区内の店舗,toukyou-23-kunai-no-tenpo,山王店,sannou-mise,住所 東京都大田区山王3-30-8　山王Ａハウス1F,35.586179,139.72540290000006
+65,東京23区内の店舗,toukyou-23-kunai-no-tenpo,西蒲田店,nishikan-ta-mise,住所 東京都大田区西蒲田6-32-15　ダイヤモンドマンション1F,35.5648228,139.70945289999997
+66,東京23区内の店舗,toukyou-23-kunai-no-tenpo,神田店,kanda-mise,住所 東京都中央区日本橋本石町4-2-11 ＪＲ新幹線高架下,35.6891474,139.77010500000006
+67,東京23区内の店舗,toukyou-23-kunai-no-tenpo,日本橋小網町店,nihonbashi-koamichou-mise,,,
+68,東京23区内の店舗,toukyou-23-kunai-no-tenpo,築地店,tsukiji-mise,住所 東京都中央区築地7-12-7　築地FＴＳビル1F,35.6652251,139.7745827
+69,東京23区内の店舗,toukyou-23-kunai-no-tenpo,KAKUYASU class 銀座 Wine Cellar,KAKUYASU class -ginza- Wine Cellar,住所 東京都中央区銀座8-7-5　昌栄ビル1F,,
+70,東京23区内の店舗,toukyou-23-kunai-no-tenpo,新井薬師店,arai-kusurishi-mise,住所 東京都中野区新井5-20-8,35.71641509999999,139.66881509999996
+71,東京23区内の店舗,toukyou-23-kunai-no-tenpo,新中野店,shinchuu-yaten,住所 東京都中野区本町6-12-12　山崎ビル1F,35.6949306,139.66760479999994
+72,東京23区内の店舗,toukyou-23-kunai-no-tenpo,白鷺店,shirasagi-mise,住所 東京都中野区白鷺1-9-15　アークハイツ1F,35.7188375,139.63636380000003
+73,東京23区内の店舗,toukyou-23-kunai-no-tenpo,中野沼袋店,nakano-numabukuro-mise,住所 東京都中野区江古田2-10-1 旭ビル１Ｆ,,
+74,東京23区内の店舗,toukyou-23-kunai-no-tenpo,野方南口店,nogata-minamiguchi-mise,住所 東京都中野区野方5-30-3 柳屋ビル1F,35.71909039999999,139.65212369999995
+75,東京23区内の店舗,toukyou-23-kunai-no-tenpo,板橋店,itabashi-mise,住所 東京都板橋区板橋3-6-17,35.7508098,139.71126149999998
+76,東京23区内の店舗,toukyou-23-kunai-no-tenpo,中板橋店,nakaitabashi-mise,住所 東京都板橋区中板橋15-5　モナークマンション中板橋 1F,35.7559698,139.69747329999996
+77,東京23区内の店舗,toukyou-23-kunai-no-tenpo,高島平店,takashima-taira-mise,住所 東京都板橋区高島平8-6-4,35.7889637,139.66281449999997
+78,東京23区内の店舗,toukyou-23-kunai-no-tenpo,東品川店,higashishinagawa-mise,住所 東京都品川区東品川3-27-25,35.6112619,139.7459473
+79,東京23区内の店舗,toukyou-23-kunai-no-tenpo,西小山店,nishi-oyama-mise,住所 東京都品川区小山5-12-10,,
+80,東京23区内の店舗,toukyou-23-kunai-no-tenpo,戸越銀座店,tokoshiginza-mise,住所 東京都品川区戸越2-7-3　石川屋ハイツ1F,35.6142645,139.7213822
+81,東京23区内の店舗,toukyou-23-kunai-no-tenpo,大井町店,ooichou-mise,住所 東京都品川区大井1-53-6,35.6046101,139.73388380000006
+82,東京23区内の店舗,toukyou-23-kunai-no-tenpo,荏原中延店,ehara-nakanobe-mise,住所 東京都品川区中延3-13-10,35.6065651,139.7120969
+83,東京23区内の店舗,toukyou-23-kunai-no-tenpo,東五反田店,higashigotanda-mise,住所 東京都品川区東五反田1-25-13　セブンスターマンション　1F,35.6257416,139.7284125
+84,東京23区内の店舗,toukyou-23-kunai-no-tenpo,駒込店,komagome-mise,住所 東京都文京区本駒込6-14-14　イトーピア六義園1F,35.7323348,139.74876210000002
+85,東京23区内の店舗,toukyou-23-kunai-no-tenpo,白山店,hakusan-mise,住所 東京都文京区白山5-1-18　串田ビル1F,35.7202531,139.7508626
+86,東京23区内の店舗,toukyou-23-kunai-no-tenpo,巣鴨店,sugamo-mise,住所 東京都文京区千石4-45-14　小林ビル1F,35.7296188,139.74246429999994
+87,東京23区内の店舗,toukyou-23-kunai-no-tenpo,春日店,kasuga-mise,住所 東京都文京区春日1-10-1　ホワイトパレス1F,35.7096678,139.74637200000006
+88,東京23区内の店舗,toukyou-23-kunai-no-tenpo,千駄木店,sendagi-mise,住所 東京都文京区千駄木2-43-1 1F,35.72254919999999,139.76260030000003
+89,東京23区内の店舗,toukyou-23-kunai-no-tenpo,西池袋店,nishiikebukuro-mise,住所 東京都豊島区西池袋5-13-11　ビップ西池袋大黒ビル1F,35.7325946,139.70313
+90,東京23区内の店舗,toukyou-23-kunai-no-tenpo,千川店,senkawa-mise,住所 東京都豊島区要町3-24-3　ＫＴビル1F,35.73898440000001,139.68695980000007
+91,東京23区内の店舗,toukyou-23-kunai-no-tenpo,上池袋店,ue-ikebukuroten,住所 東京都豊島区上池袋1-27-7　日神パレス1F,35.73775270000001,139.72185850000005
+92,東京23区内の店舗,toukyou-23-kunai-no-tenpo,雑司が谷店,zatsu-tsukasa-ga-tani-mise,住所 東京都豊島区雑司が谷2-5-4　カーザ千登世1F,35.7185053,139.71481619999997
+93,東京23区内の店舗,toukyou-23-kunai-no-tenpo,巣鴨駅前店,sugamo-ekimae-mise,住所 東京都豊島区巣鴨2-2-5　クリオネコート1F,35.7342325,139.7382236
+94,東京23区内の店舗,toukyou-23-kunai-no-tenpo,王子店,ouji-mise,住所 東京都北区豊島2-4-2,35.75710669999999,139.7423324
+95,東京23区内の店舗,toukyou-23-kunai-no-tenpo,上十条店,ue-juujou-mise,住所 東京都北区上十条4-8-20　J TOWN ROGE III,35.762339,139.71584429999996
+96,東京23区内の店舗,toukyou-23-kunai-no-tenpo,浮間店,ukima-mise,住所 東京都北区浮間1-13-9　メゾンプリムロゼ1F,35.7904575,139.70051079999996
+97,東京23区内の店舗,toukyou-23-kunai-no-tenpo,田端新町店,tabata-shinmachi-mise,住所 東京都北区田端新町2-18-9　ＳＡＮ田端1F,35.74119030000001,139.76495840000007
+98,東京23区内の店舗,toukyou-23-kunai-no-tenpo,王子神谷店,ouji-kamiya-mise,住所 東京都北区神谷3-32-17,35.7715298,139.73319400000003
+99,東京23区内の店舗,toukyou-23-kunai-no-tenpo,立花店,tachibana-mise,住所 東京都墨田区文花3-24-11,35.7121668,139.827994
+100,東京23区内の店舗,toukyou-23-kunai-no-tenpo,錦糸町店,kinshichou-mise,住所 東京都墨田区太平3-13-7　錦糸町パークハイツ1F,35.701642,139.81441859999995
+101,東京23区内の店舗,toukyou-23-kunai-no-tenpo,下目黒店,shimomeguro-mise,住所 東京都目黒区中町1-6-3　リバティースクエア1F,35.63132809999999,139.70034529999998
+102,東京23区内の店舗,toukyou-23-kunai-no-tenpo,祐天寺店,yuutenji-mise,住所 東京都目黒区五本木2-16-6,35.6347526,139.69106609999994
+103,東京23区内の店舗,toukyou-23-kunai-no-tenpo,都立大学店,toritsudaigaku-mise,住所 東京都目黒区中根1-2-3　粕谷ビル1F,35.6180994,139.67633469999998
+104,東京23区内の店舗,toukyou-23-kunai-no-tenpo,目黒東山店,meguro-higashiyama-mise,住所 東京都目黒区東山1-5-9-105,35.6465006,139.69554600000004
+105,東京23区内の店舗,toukyou-23-kunai-no-tenpo,学芸大学前店,gakugeidaigaku-mae-mise,住所 東京都目黒区鷹番3-24-16 リベール学芸大学1F,35.62912489999999,139.68138139999996
+106,東京23区内の店舗,toukyou-23-kunai-no-tenpo,石神井台店,shakujiidai-mise,住所 東京都練馬区石神井台7-1-12,,
+107,東京23区内の店舗,toukyou-23-kunai-no-tenpo,大泉学園店,ooizumigakuen-mise,住所 東京都練馬区東大泉3-1-1　橋本ビル 1F,35.7508289,139.5924407
+108,東京23区内の店舗,toukyou-23-kunai-no-tenpo,練馬北町店,nerima-kitamachi-mise,住所 東京都練馬区北町1-28-9　エステート北町 1F,35.7667421,139.66448449999996
+109,東京23区内の店舗,toukyou-23-kunai-no-tenpo,豊玉店,toyotama-mise,住所 東京都練馬区豊玉上2-25-7　ゴールドパレス豊玉1F,35.7379168,139.6581251
+110,東京23区内の店舗,toukyou-23-kunai-no-tenpo,光が丘店,hikari-ga-oka-mise,住所 東京都練馬区高松5-6-5　グローリー高山1F,35.7537802,139.62136639999994
+111,東京23区内の店舗,toukyou-23-kunai-no-tenpo,中村橋店,nakamura-hashi-mise,住所 東京都練馬区中村北3-11-1　クリオ中村橋壱番館1F,35.736858,139.64055899999994
+112,東京23区内の店舗,toukyou-23-kunai-no-tenpo,下赤塚店,shita-akatsuka-mise,住所 東京都練馬区田柄2-50-7　サンハイツビュー赤塚1F,35.76989440000001,139.64372159999994
+113,東京23区以外の店舗,toukyou-23-ku-igai-no-tenpo,三鷹南口店,mitaka-minamiguchi-mise,住所 東京都三鷹市下連雀4-16-7 シャローム三鷹 1F,35.69673530000001,139.56098559999998
+114,東京23区以外の店舗,toukyou-23-ku-igai-no-tenpo,東八野崎店,higashi-hachi-nozaki-mise,住所 東京都三鷹市野崎2-9-1,,
+115,東京23区以外の店舗,toukyou-23-ku-igai-no-tenpo,八王子八日町店,hachiouji-youka-machi-mise,住所 〒192-0071　東京都八王子市八日町5-17　島村ビル1階,35.65998681198234,139.3300387559684
+116,東京23区以外の店舗,toukyou-23-ku-igai-no-tenpo,府中店,fuchuu-mise,住所 東京都府中市府中町1-41-17,,
+117,東京23区以外の店舗,toukyou-23-ku-igai-no-tenpo,久米川店,kumegawa-mise,住所 東京都東村山市栄町1-6-2　リシェス久米川　2号館,,
+118,東京23区以外の店舗,toukyou-23-ku-igai-no-tenpo,東大和店,higashiyamato-mise,住所 東京都東大和市中央1-12-6　セントヒルズ　１階,,
+119,東京23区以外の店舗,toukyou-23-ku-igai-no-tenpo,稲城店,inagi-mise,住所 東京都稲城市東長沼1716－1,,
+120,東京23区以外の店舗,toukyou-23-ku-igai-no-tenpo,町田店,machidaten,住所 東京都町田市森野5-21-7,,
+121,東京23区以外の店舗,toukyou-23-ku-igai-no-tenpo,恋ヶ窪店,koigakubo-mise,住所 東京都国分寺市東戸倉1-14-26 1F,,
+122,東京23区以外の店舗,toukyou-23-ku-igai-no-tenpo,武蔵小金井店,musashikoganei-mise,住所 東京都小金井市本町5-33-12　パストラル　1F,,
+123,埼玉県の店舗,saitamaken-no-tenpo,川口東領家店,kawaguchi-higashi-ryouke-mise,住所 埼玉県川口市東領家1-1-1,,
+124,神奈川県の店舗,kanagawaken-no-tenpo,弥生台店,yayoi-dai-mise,住所 神奈川県横浜市泉区弥生台36-32,,
+125,神奈川県の店舗,kanagawaken-no-tenpo,翁町店,okina-machi-mise,住所 神奈川県横浜市中区翁町2-8-5　東里第一ビル1F,35.440317,139.6365101
+126,神奈川県の店舗,kanagawaken-no-tenpo,桜木町店,sakuragichou-mise,住所 神奈川県横浜市中区花咲町2-81 第五北川ビル1F,35.4507643,139.6296089
+127,神奈川県の店舗,kanagawaken-no-tenpo,関内店,sekiuchi-mise,住所 神奈川県横浜市中区住吉町3-28,,
+128,神奈川県の店舗,kanagawaken-no-tenpo,東神奈川店,higashikanagawa-mise,住所 神奈川県横浜市神奈川区反町2-16-2　マックサワトビル 1F,35.4766003,139.62837360000003
+129,神奈川県の店舗,kanagawaken-no-tenpo,鶴見店,tsurumi-mise,住所 神奈川県横浜市鶴見区豊岡町18-20,,
+130,神奈川県の店舗,kanagawaken-no-tenpo,吉野町店,yoshinochou-mise,住所 神奈川県横浜市南区吉野町2-4　アダコビル1階部分,35.4359193659545,139.61972766191099
+131,神奈川県の店舗,kanagawaken-no-tenpo,保土ケ谷店,ho-tsuchi-ke-tani-mise,住所 神奈川県横浜市保土ヶ谷区西久保町102　パインエステート1F,35.4484619,139.60054679999996
+132,神奈川県の店舗,kanagawaken-no-tenpo,横浜西口店,yokohamanishiguchi-mise,住所 神奈川県横浜市西区浅間町1-13-5 1F,35.4647541,139.61265679999997
+133,神奈川県の店舗,kanagawaken-no-tenpo,磯子店,isogo-mise,住所 神奈川県横浜市磯子区中原2-2-16,,
+134,神奈川県の店舗,kanagawaken-no-tenpo,上大岡店,kamioooka-mise,住所 神奈川県横浜市港南区最戸1-21-10,,
+135,神奈川県の店舗,kanagawaken-no-tenpo,港北店,kouhoku-mise,住所 神奈川県横浜市都筑区牛久保1-1-58,,
+136,神奈川県の店舗,kanagawaken-no-tenpo,あざみ野店,azami-yaten,住所 神奈川県横浜市青葉区あざみ野4-14-1,,
+137,神奈川県の店舗,kanagawaken-no-tenpo,本牧店,honmoku-mise,住所 神奈川県横浜市中区本牧和田26-1,,
+138,神奈川県の店舗,kanagawaken-no-tenpo,南本宿店,minamihonshuku-mise,住所 神奈川県横浜市旭区南本宿35,,
+139,神奈川県の店舗,kanagawaken-no-tenpo,川崎本町店,kawasaki-honchou-mise,住所 神奈川県川崎市川崎区本町1-4-23,35.5336735,139.70380590000002
+140,神奈川県の店舗,kanagawaken-no-tenpo,武蔵小杉店,musashikosugi-mise,住所 神奈川県川崎市中原区新丸子東2-906-14　エストレリータII　1F,35.5774055,139.66204100000004
+141,神奈川県の店舗,kanagawaken-no-tenpo,中原店,nakahara-mise,住所 神奈川県川崎市中原区下小田中6-5-24,35.5736897,139.63764779999997
+142,神奈川県の店舗,kanagawaken-no-tenpo,新百合ヶ丘店,shinyuri-ke-oka-mise,住所 神奈川県川崎市麻生区万福寺1-10-13ｺｰﾄｺｱ 1階,,
+143,神奈川県の店舗,kanagawaken-no-tenpo,川崎塚越店,kawasaki-tsukagoshi-mise,住所 神奈川県川崎市幸区塚越2-213,,
+144,神奈川県の店舗,kanagawaken-no-tenpo,湘南台店,shounandai-mise,住所 神奈川県藤沢市高倉947-4,,
+145,神奈川県の店舗,kanagawaken-no-tenpo,湘南台駅前店,shounandai-ekimae-mise,住所 神奈川県藤沢市湘南台2-7-13 湘南台ウエストプラザ3番地,,
+146,神奈川県の店舗,kanagawaken-no-tenpo,湘南ライフタウン店,shounan-raifutaun-mise,住所 神奈川県藤沢市石川3-21-3,,
+147,神奈川県の店舗,kanagawaken-no-tenpo,湘南片瀬店,shounan-katase-mise,住所 神奈川県藤沢市片瀬5-1-12,,
+148,神奈川県の店舗,kanagawaken-no-tenpo,辻堂店,tsujidou-mise,住所 神奈川県藤沢市羽鳥1-3-50,,
+149,神奈川県の店舗,kanagawaken-no-tenpo,平塚店,hiratsuka-mise,住所 神奈川県平塚市東八幡3-10-5,,
+150,神奈川県の店舗,kanagawaken-no-tenpo,鎌倉手広店,kamakura-te-kou-mise,住所 神奈川県鎌倉市笛田1-2-60,,
+151,神奈川県の店舗,kanagawaken-no-tenpo,小田原店,odawara-mise,住所 神奈川県小田原市寿町2-10-10,,
+152,神奈川県の店舗,kanagawaken-no-tenpo,本厚木店,hon'atsugi-mise,住所 神奈川県厚木市恩名1-20-22,,
+153,神奈川県の店舗,kanagawaken-no-tenpo,相模原店,sagamihara-mise,住所 神奈川県相模原市中央区千代田3-19-5,,
+154,神奈川県の店舗,kanagawaken-no-tenpo,伊勢原高森店,isehara-takamori-mise,住所 神奈川県伊勢原市高森1845　うらたビル,,
+155,大阪府 / 吹田市の店舗,oosakafu- / -suitashi-no-tenpo,江坂店,esakaten,住所 大阪府吹田市江の木町9-11,34.757074,135.4918129
+156,大阪府 / 大阪市の店舗,oosakafu- / -oosakashi-no-tenpo,玉屋町店,tamaya-machi-mise,住所 大阪府大阪市中央区宗右衛門町5－1,34.6702274,135.50419220000003
+157,大阪府 / 大阪市の店舗,oosakafu- / -oosakashi-no-tenpo,松屋町店,matsuyamachi-mise,住所 大阪府大阪市中央区瓦屋町1－10－2,34.6722358,135.5114334
+158,大阪府 / 大阪市の店舗,oosakafu- / -oosakashi-no-tenpo,京橋店,kyoubashi-mise,住所 大阪府大阪市都島区東野田町4－7－20　アクセス中家ビル1F,34.6983915,135.53081999999995
+159,大阪府 / 大阪市の店舗,oosakafu- / -oosakashi-no-tenpo,天満店,tenma-mise,住所 大阪府大阪市北区同心2－6－6　山本興産ビル,34.7029552,135.51306269999998
+160,大阪府 / 大阪市の店舗,oosakafu- / -oosakashi-no-tenpo,十三店,juusan-mise,住所 大阪府大阪市淀川区十三本町1-17-20,,
+161,大阪府 / 大阪市の店舗,oosakafu- / -oosakashi-no-tenpo,日本橋オタロード店,nihonbashi-otaroodo-mise,住所 大阪府大阪市浪速区難波中2-4-12　ティタカラナビル1階,,
+162,大阪府 / 大阪市の店舗,oosakafu- / -oosakashi-no-tenpo,なんば西店,nanba-nishi-mise,住所 大阪府大阪市浪速区稲荷1-12-7　そんぽの家難波稲荷　1Ｆ,34.6634895,135.491578
+163,大阪府 / 大阪市の店舗,oosakafu- / -oosakashi-no-tenpo,野田店,noda-mise,住所 大阪府大阪市福島区吉野2-1-2,34.6910023,135.47749850000002
+164,大阪府 / 大阪市の店舗,oosakafu- / -oosakashi-no-tenpo,あべの店,abeno-mise,住所 大阪府大阪市阿倍野区阿倍野筋4-17-15,34.6390649,135.51121880000005
+165,大阪府 / 大阪市の店舗,oosakafu- / -oosakashi-no-tenpo,中本店,nakamoto-mise,住所 大阪府大阪市東成区中本5-12-31　藤和シティーホームズ中本公園,,
+166,九州の店舗,kyuushuu-no-tenpo,思案橋店,shian-hashi-mise,配達エリア 長崎市本石灰町、長崎市寄合町、長崎市丸山町、長崎市船大工町,,
+167,配達専用出荷ステーション,haitatsu-senyou-shukka-suteeshon,KAKUYASU 銀座 Wine Cellar 7丁目,KAKUYASU -ginza- Wine Cellar 7-choume,住所 東京都中央区銀座7-5-19 B1,,
+168,配達専用出荷ステーション,haitatsu-senyou-shukka-suteeshon,広尾DS,hiroo-DS,住所 東京都港区白金5-2-6　ヴィラソフィア,,
+169,配達専用出荷ステーション,haitatsu-senyou-shukka-suteeshon,西糀谷DS,nishi-koujiya-DS,住所 東京都大田区西糀谷2-27-19,,
+170,配達専用出荷ステーション,haitatsu-senyou-shukka-suteeshon,馬込DS,umagome-DS,住所 東京都大田区中馬込1-5-15　1F,,
+171,配達専用出荷ステーション,haitatsu-senyou-shukka-suteeshon,新橋DS,shinbashi-DS,住所 東京都港区新橋5-33-7　コート新橋 1F,,
+172,配達専用出荷ステーション,haitatsu-senyou-shukka-suteeshon,初台DS,shodai-DS,住所 東京都渋谷区代々木4-59-3　大永初台ビル1Ｆ,,
+173,配達専用出荷ステーション,haitatsu-senyou-shukka-suteeshon,神南DS,jinnan-DS,住所 東京都渋谷区神南1-13-15　神南ペアシティ,,
+174,配達専用出荷ステーション,haitatsu-senyou-shukka-suteeshon,桜丘DS,sakuraoka-DS,住所 東京都世田谷区桜丘1-2-12　水谷貸倉庫１・2階,,
+175,配達専用出荷ステーション,haitatsu-senyou-shukka-suteeshon,東雪谷DS,higashi-yukitani-DS,住所 東京都大田区東雪谷3-29-4 カールメゾン石川台1F,,
+176,配達専用出荷ステーション,haitatsu-senyou-shukka-suteeshon,東品川DS,higashishinagawa-DS,住所 東京都品川区東品川3-21-10　ヤダビル1Ｆ,,
+177,配達専用出荷ステーション,haitatsu-senyou-shukka-suteeshon,千石DS,sengoku-DS,住所 東京都文京区千石4-22-8　千石米山ビル 1F,,
+178,配達専用出荷ステーション,haitatsu-senyou-shukka-suteeshon,中野DS,nakano-DS,住所 東京都中野区中野1-32-5,,
+179,配達専用出荷ステーション,haitatsu-senyou-shukka-suteeshon,千鳥町DS,chidorichou-DS,住所 東京都大田区千鳥3-22-1,,
+180,配達専用出荷ステーション,haitatsu-senyou-shukka-suteeshon,八丁堀DS,hatchoubori-DS,住所 東京都中央区八丁堀2-3-2　小林ビル本館,,
+181,配達専用出荷ステーション,haitatsu-senyou-shukka-suteeshon,調布菊野台DS,choufu-kikuno-dai-DS,住所 東京都調布市菊野台2-44-23　エクセレント1階,,
+182,配達専用出荷ステーション,haitatsu-senyou-shukka-suteeshon,八王子北野DS,hachiouji-kitano-DS,住所 東京都八王子市北野町580-6　エステート田代1階,,
+183,配達専用出荷ステーション,haitatsu-senyou-shukka-suteeshon,生麦DS,namamugi-DS,住所 神奈川県横浜市鶴見区生麦1-1-22 日栄ハイム生麦飯田ビル１階,,
+184,配達専用出荷ステーション,haitatsu-senyou-shukka-suteeshon,住吉SS,sumiyoshi-SS,配達エリア 福岡市早良区・城南区・中央区・博多区・南区の一部エリア、長崎県長崎市思案橋周辺エリア。詳しくはこちら,,
