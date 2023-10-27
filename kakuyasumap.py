@@ -1,34 +1,62 @@
 import streamlit as st
-import geopandas as gpd
 import pandas as pd
-from shapely.geometry import Point
-import plotly.express as px
+import pykakasi
+from streamlit_folium import st_folium
+import folium
+import osmnx as ox
 
-@st.cache_data
-def create_map():
-    df = pd.read_csv("stores.csv")
-    df = df.dropna()
+kks = pykakasi.kakasi()
 
-    name, name_e, geometry, lon, lat = [], [], [], [], []
-    for _, r in df.iterrows():
-        name.append(r["name"])
-        name_e.append(r["name-e"])
-        lon.append(r["lon"])
-        lat.append(r["lat"])
-        geometry.append(Point(r["lon"], r["lat"]))
-
-    d = {"name": name, "name-e": name_e, "geometry": geometry, "lat":lat, "lon":lon}
-    storedf = gpd.GeoDataFrame(d)
-
-    fig = px.scatter_mapbox(storedf, 
-                        lat="lat", 
-                        lon="lon", 
-                        hover_name="name",
-                        mapbox_style="stamen-terrain", 
-                        zoom=9, height=900)
-    return fig
+def kana(s):
+    r = []
+    for kana in kks.convert(s):
+        r.append(kana["hepburn"])
+    return "-".join(r)
 
 st.set_page_config("Kakuyasu map", layout="wide")
+st.title("KAKUYASU MAP")
 
-fig = create_map()
-st.plotly_chart(fig, use_container_width=True)
+@st.cache_data
+def get_G():
+    query = "Tokyo,Japan"
+    G = ox.graph_from_place(query, network_type="drive") 
+    return G
+
+@st.cache_data
+def create_df():
+    df = pd.read_csv("stores.csv")
+    df = df.dropna()
+    return df
+
+df = create_df()
+categories = df.area.unique()
+
+with st.sidebar:
+    st.subheader("Category")
+    for ct in categories:
+        st.checkbox(ct, key=ct)
+        st.caption(kana(ct))
+
+selected_areas = [k for k, v in st.session_state.items() if k in categories and v]
+df_selected = df[
+    df.area.isin(selected_areas)
+]
+
+map = folium.Map(location=[35.646351,139.73134149999998], zoom_start=10)
+
+for i, row in df_selected.iterrows():
+    color = "red" if row["area"] == "配達専用出荷ステーション" else "blue"
+
+    folium.Marker(
+        [row.lat, row.lon],
+        popup=f"{row['name']}\n{row['name-e']}", 
+        icon=folium.Icon(color=color)
+    ).add_to(map)
+
+st.subheader("LOCATIONS")
+st.components.v1.html(folium.Figure().add_child(map).render(), height=700)
+
+
+st.subheader("Routes")
+st.write("route from Shirogane-ten (in 20 min without any traffic jam)")
+st.image("image.png")
