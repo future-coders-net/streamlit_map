@@ -54,6 +54,7 @@ with st.sidebar:
     store_df = df[df["area-e"] == "toukyou-23-kunai-no-tenpo"]
     st.selectbox("Store ", store_df["name"], key="store")
 
+    st.write("NOTE: it takes a few minutes to create Tokyo map for the first time")
     st.button("route", key="route")
     
 
